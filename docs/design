@@ -1,0 +1,8 @@
+We will be designing a simple classroom monitoring system for a university facilities department. We want to monitor classroom temperatures and identify when conditions fall outside of acceptable range. We will make a application that processes temperature readings that determines whether the classroom environment is acceptable and provides a visible warning when temperature is outside of range. 
+We will allow a user to enter the classroom temerature readings in Fahrenheit.
+Determine whether a temperature is whithin acceptable range of 68 - 76 Fahrenheit.
+The application will also display an appropriate Normal or Warning status.
+Calculate the average of the recordered te,ps
+save temp readings and their statuses to a file
+use a LED connected to a raspberry pi to indicate a warning condtion
+allow the acceptable temp range to be changed according to a new client requirement
